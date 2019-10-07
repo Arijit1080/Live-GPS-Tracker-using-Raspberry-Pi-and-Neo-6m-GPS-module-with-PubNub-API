@@ -4,8 +4,8 @@ Here I have made a realtime GPS tracker device, which you can track from anywher
 <a href="#"><img src="map2.gif" alt="" width="480" height="360"></a>
 </p>
 </br></br>
-Read this blog for detailed information about the codes and how to use those https://sparklers-the-makers.github.io/blog/robotics/realtime-gps-tracker-with-raspberry-pi/
-
+Read this blog for detailed information about the codes and how to use those https://sparklers-the-makers.github.io/blog/robotics/realtime-gps-tracker-with-raspberry-pi/ 
+</br>
 You can also watch these video tutorials for the same:</br>
 Part 1 : https://youtu.be/NDgTUIwGMS4</br>
 Part 2 : https://youtu.be/EFBNMPnWpfU
